@@ -1,4 +1,2 @@
-# MobileDevProject_Opern
+# 移动开发课程项目：打卡APP
 
-## 参考资料
-- [简谱识别](https://github.com/JavaCorn/QinJianPu)
